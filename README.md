@@ -1,5 +1,5 @@
 <h1 align="center">
-  unifinancetech Rewards Claim
+  unifinancetech Rewards Claim.
   <br>
 </h1>
 
